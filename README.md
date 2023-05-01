@@ -3,12 +3,6 @@
 ## Goal
 Practice the methods offered by the C++ standard library string class by writing a C++ program that reads in an arithmetic expression evaluates the expression and finds the result of evaluation the expression. This lab will serve as practice and review of CSC 1230 topics as string class and methods, and file input/output.
 
-## Sample Run
-
-Here's a screenshot of a sample run:
-
-![Sample Run](images/running-assignment.png)
-
 The main program will do the following operations:
 1. Calls the function `ValidateExpressions` on line 14. This function has been provided for you, and it will test the two functions that you need to implement for this lab. When the function is done, it is going to return a number that represents how many points out of one hundred you get for your tests. This will be most of your lab grade.
 2. After the validation part you will write code to:

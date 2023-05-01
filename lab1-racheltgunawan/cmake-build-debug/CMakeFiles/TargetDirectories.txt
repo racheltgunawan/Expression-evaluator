@@ -1,0 +1,3 @@
+/Users/racheltiffanygunawan/csc2430/lab1-racheltgunawan/cmake-build-debug/CMakeFiles/Evaluator.dir
+/Users/racheltiffanygunawan/csc2430/lab1-racheltgunawan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/racheltiffanygunawan/csc2430/lab1-racheltgunawan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

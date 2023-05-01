@@ -1,0 +1,6 @@
+{"expr":"2+5", "result":7, "error":false}
+{"expr":"3+2*3", "result":9, "error":false}
+{"expr":"2+5*5-1*10+8/2", "result":21, "error":false}
+{"expr":"4+a", "result":0, "error":true}
+{"expr":"2+7*3+a2*5", "result":0, "error":true}
+{"expr":"2+2+2+2+2-5*2", "result":0, "error":false}

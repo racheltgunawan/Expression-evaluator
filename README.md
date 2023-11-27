@@ -1,4 +1,4 @@
-# LAB 1 - Evaluating Arithmetic Expressions
+# Evaluating Arithmetic Expressions
 
 ## Goal
 Practice the methods offered by the C++ standard library string class by writing a C++ program that reads in an arithmetic expression evaluates the expression and finds the result of evaluation the expression. This lab will serve as practice and review of CSC 1230 topics as string class and methods, and file input/output.
